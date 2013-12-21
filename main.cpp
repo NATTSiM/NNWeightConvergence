@@ -28,6 +28,7 @@
 using namespace std;
 int main()
 {
+  cout << "\nWelcome to the Neural Network program! " << endl;
   srand((int)time(NULL)); // Seed random numbers
   /*************************************************/
   /*             Set values for demo               */
